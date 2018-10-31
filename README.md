@@ -8,6 +8,10 @@
 
 * [DeepL](https://www.deepl.com/translator): Translate documents into various languages
 
+## Data Analysis in R
+
+* [jamovi](https://www.jamovi.org/features.html). Do your data analysis in a gui and export the code to R. 
+
 ## Writing Papers
 
 * [ReciteWorks](https://reciteworks.com/check): Check a document for APA errors
