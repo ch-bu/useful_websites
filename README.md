@@ -8,6 +8,10 @@
 
 * [DeepL](https://www.deepl.com/translator): Translate documents into various languages
 
+## Presentations
+
+* [Mind Icons](https://www.olicav.com/#/icons/). Icons for presentations
+
 ## Data Analysis in R
 
 * [jamovi](https://www.jamovi.org/features.html). Do your data analysis in a gui and export the code to R. 
