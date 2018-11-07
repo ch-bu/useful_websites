@@ -22,3 +22,4 @@
 * [Papaja APA](https://crsh.github.io/papaja_man/index.html). Write APA documents directly in R. 
 * [APA template](https://templates.office.com/en-US/APA-style-report-6th-edition-TM03982351). A word apa template for writing manuscripts. 
 * [APA tables from R](https://dstanley4.github.io/apaTables/articles/apaTables.html). Generates formateed apa tables from R code and converts it into a doc file. 
+* [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/introducing-work/)
