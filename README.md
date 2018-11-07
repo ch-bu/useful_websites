@@ -12,6 +12,10 @@
 
 * [Mind Icons](https://www.olicav.com/#/icons/). Icons for presentations
 
+## Literature search
+
+* [Crossref Metadata Search](https://search.crossref.org/)
+
 ## Data Analysis in R
 
 * [jamovi](https://www.jamovi.org/features.html). Do your data analysis in a gui and export the code to R. 
