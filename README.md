@@ -40,3 +40,11 @@
 ## Writing Papers
 
 * [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/introducing-work/)
+
+## Fonts
+
+* [Axis Extra Bold](https://www.fontmirror.com/axis-extra-bold)
+* [Polly](https://fontsme.com/polly.font)
+* [Montserrat](https://fonts.google.com/specimen/Montserrat?selection.family=Montserrat)
+* [Gotham](https://www.cufonfonts.com/font/gotham)
+* 
